@@ -4,4 +4,5 @@ Bu yerda yozamiz.
 Bu yangi qator.
 Bu esa yana bir qator.
 Bu ham nimadirda endi. Bu yerda bir yo'la gitni test qilyapman.
+git pullni sinadik. Endi
 git fetchni ishlatishni o'rganamiz.
